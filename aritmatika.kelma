@@ -1,0 +1,13 @@
+2+2
+2-2
+2*2
+2/2
+
+CETOK "ATAU"
+
+a=2 
+b=2
+CETOK a+b
+CETOK a-b
+CETOK a*b
+CETOK a/b
